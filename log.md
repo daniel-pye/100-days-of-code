@@ -6,4 +6,4 @@
 
 **Thoughts:** MIT course week 1 completed. Covered mostly things I feel fairly comfortable with: iteration, branching and guess nd check algorithms.
 
-**Link to work:** [Codewars](https://www.codewars.com/users/daniel_pye/badges/large)
+**Link to work:** ## [![CodeWars](https://www.codewars.com/users/daniel_pye/badges/large)](https://www.codewars.com/users/daniel_pye "My Honor Badge") #
