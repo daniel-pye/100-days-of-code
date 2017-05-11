@@ -2,7 +2,7 @@
 
 ### Day 29: May 11, 2017
 
-**Today's Progress**: Tried to carry on with the MIT course. Failed. Completed some more code katas.
+**Today's Progress**: Tried to carry on with the MIT course. Failed. Completed some more code katas and started using Hacker Rank.
 
 **Thoughts:** Think I need to track back a bit and work up towards it. Going to work through Python Crash Course before trying MIT again. 
 
